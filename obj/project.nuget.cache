@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sgc0FaePjEVgY/G5H/37GLV5vPp8I1ZVjtC/tVElamvBSH4Xv4B60Fc8GTai/waoUafiOu6XLlVu41UwgtonUw==",
+  "success": true,
+  "projectFilePath": "D:\\FACULDADE\\2024\\TECNICAS_AVANCADAS_DE_CONSTRUCAO_DE_SOFTWARE_HIGOR\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.15\\microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
